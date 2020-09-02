@@ -1,5 +1,3 @@
-# scrape_DB
-
 This project scrapes data from most movie db sites and forward the data to
 the Internet Movie DB via lists.
 
